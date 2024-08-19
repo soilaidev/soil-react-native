@@ -6,9 +6,9 @@
   "homepage": "https://soilai.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmurawsky/soil-react-native.git"
+    "url": "git+https://github.com/soilaidev/soil-react-native.git"
   },
-  "bugs": "https://github.com/dmurawsky/soil-react-native/issues",
+  "bugs": "https://github.com/soilaidev/soil-react-native/issues",
   "license": "MIT",
   "keywords": [
     "ai",
