@@ -1,0 +1,37 @@
+{
+  "name": "soil-react-native",
+  "version": "0.0.1",
+  "description": "Optimizing React Native development",
+  "author": "Daniel Murawsky",
+  "homepage": "https://soilai.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmurawsky/soil-react-native.git"
+  },
+  "bugs": "https://github.com/dmurawsky/soil-react-native/issues",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "no-code",
+    "soil"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.75.1",
+    "soilai": "^0.0.22"
+  },
+  "peerDependencies": {},
+  "prettier": {
+    "printWidth": 80
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  }
+}
