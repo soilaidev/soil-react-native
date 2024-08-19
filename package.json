@@ -1,7 +1,7 @@
 {
   "name": "soil-react-native",
   "version": "0.0.2",
-  "description": "Optimizing React Native development",
+  "description": "Smart-brained text-based code-gen",
   "author": "Daniel Murawsky",
   "homepage": "https://soilai.dev",
   "repository": {
